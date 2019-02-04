@@ -1,0 +1,11 @@
+{
+    "name": "yutahaga/tablepress-css-fixer",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuta Haga",
+            "email": "yutahaga7@gmail.com"
+        }
+    ]
+}
