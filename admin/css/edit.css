@@ -1,0 +1,7 @@
+#tablepress-nav a,
+#tablepress_edit-table-information,
+#tablepress_edit-table-manipulation,
+#tablepress_edit-table-options,
+#tablepress_edit-datatables-features {
+	display: none;
+}
